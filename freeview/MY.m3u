@@ -198,7 +198,7 @@ http://104.43.17.237:888/live/gratis/rasapremium/70.ts
 #EXTINF:-1 tvg-id="ass3" tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png" group-title="SUKAN",Astro Supersport 3
 http://104.43.17.237:888/live/gratis/rasapremium/71.ts
 
-#EXTINF:-1 tvg-chno="740" tvg-id="beIN SPORTS XTRA" tvg-name="beIN SPORTS XTRA" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="PlutoTV" group-title="Sports",beIN SPORTS XTRA
+#EXTINF:-1 tvg-chno="740" tvg-id="beIN SPORTS XTRA" tvg-name="beIN SPORTS XTRA" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="SUKAN" group-title="Sports",beIN SPORTS XTRA
 http://104.43.17.237:888/live/gratis/rasapremium/91.ts
 
 #EXTINF:-1 tvg-id="beritartm" tvg-name="beritartm" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Berita-NEW-PlayerLogo.jpg" tvg-chno="10" channel-id="10" group-title="BERITA",Berita RTM
