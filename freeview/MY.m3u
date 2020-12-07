@@ -151,8 +151,30 @@ https://raw.githubusercontent.com/raizoML/new/main/freeview/DramaSangat.m3u8
 #EXTINF:-1 tvg-id="okey" tvg-name="okey" tvg-logo="https://myklik.rtm.gov.my/image/tvTVOKEYlogo.jpg" tvg-chno="8" channel-id="8" group-title="MY",TV Okey
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 
-#EXTINF:-1 tvg-id="vaanavil" tvg-name="vaanavil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Vaanavil_%28s20%29.png" tvg-chno="8" channel-id="8" group-title="MY",Astro Vaanavil
+#EXTINF:-1 tvg-id="vaanavil" tvg-name="vaanavil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Vaanavil_%28s20%29.png" tvg-chno="11" channel-id="11" group-title="MY",Astro Vaanavil
 https://raw.githubusercontent.com/raizoML/new/main/freeview/Vaanavil.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="cinemax" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122",Cinemax (VPN warp+)
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/cinemax.m3u8
+
+#EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO (VPN warp+)
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hbo.m3u8
+
+#EXTINF:-1 tvg-id="hbohits" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",HBO Hits (VPN warp+)
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hbohits.m3u8
+
+#EXTINF:-1 tvg-id="hbofam" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122",HBO Family (VPN warp+)
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hbo%20family.m3u8
+
+#EXTINF:-1 tvg-id="hbosig" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_170_122",HBO Signature (VPN warp+)
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hbosig.m3u8
+
+#EXTINF:-1 tvg-id="hbored" tvg-name="RED.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/red_hbo.png", RED by HBO (VPN warp+)
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hbored.m3u8
+
 
 #EXTINF:-1 tvg-id="rtmsports" tvg-name="rtmsports" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Player%20Logo%20-%20RTM%20Sports%20Mac%2020%20-%20WhiteBG.jpg" tvg-chno="9" channel-id="9" group-title="SUKAN",RTM Sports
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
