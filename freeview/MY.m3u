@@ -127,10 +127,10 @@ https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
 #EXTINF:-1 tvg-id="tvs" tvg-name="tvs" tvg-logo="https://tvsarawak.com/wp-content/uploads/2018/12/tvslogo222new.png" tvg-chno="0" channel-id="0" group-title="MY",TVSarawak
 https://tvsarawak.com:443/live/_definst_/mytest/playlist.m3u8?tokendtime=1607386342&tokhash=X9A1TAxrSxPA8BT0PWYurAoTRJFw-jhW_d8G9dr-rPo=
 
-#EXTINF:-1 tvg-id="tv3" tvg-name="tv1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png" tvg-chno="1" channel-id="1" group-title="MY",TV1
+#EXTINF:-1 tvg-id="tv3" tvg-name="tv1" tvg-logo="https://playtv.unifi.com.my:7052/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png" tvg-chno="1" channel-id="1" group-title="MY",TV1
 https://rtm1mobile.secureswiftcontent.com:443/Origin01/ngrp:RTM1/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="tv2" tvg-name="tv2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" tvg-chno="2" channel-id="2" group-title="MY",TV2
+#EXTINF:-1 tvg-id="tv2" tvg-name="tv2" tvg-logo="https://playtv.unifi.com.my:7052/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png" tvg-chno="2" channel-id="2" group-title="MY",TV2
 https://rtm2mobile.secureswiftcontent.com:443/Origin01/ngrp:RTM1/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="tv3" tvg-name="tv3" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv3.png" tvg-chno="3" channel-id="3" group-title="MY",TV3
@@ -142,10 +142,20 @@ https://raw.githubusercontent.com/raizoML/new/main/freeview/NTV7.m3u8
 #EXTINF:-1 tvg-id="8tv" tvg-name="8tv" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv8.png" tvg-chno="5" channel-id="5" group-title="MY",8TV
 https://raw.githubusercontent.com/raizoML/new/main/freeview/8TV.m3u8
 
-#EXTINF:-1 tvg-id="tv9" tvg-name="tv9" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv9.png" tvg-chno="5" channel-id="6" group-title="MY",TV9
+#EXTINF:-1 tvg-id="tv9" tvg-name="tv9" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv9.png" tvg-chno="6" channel-id="6" group-title="MY",TV9
 https://raw.githubusercontent.com/raizoML/new/main/freeview/TV9.m3u8
 
+#EXTINF:-1 tvg-id="dramasangat" tvg-name="dramasangat" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png" tvg-chno="7" channel-id="7" group-title="MY",TV9
+https://raw.githubusercontent.com/raizoML/new/main/freeview/DramaSangat.m3u8
 
+#EXTINF:-1 tvg-id="okey" tvg-name="okey" tvg-logo="https://myklik.rtm.gov.my/image/tvTVOKEYlogo.jpg" tvg-chno="8" channel-id="8" group-title="MY",TV Okey
+https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="rtmsports" tvg-name="rtmsports" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Player%20Logo%20-%20RTM%20Sports%20Mac%2020%20-%20WhiteBG.jpg" tvg-chno="9" channel-id="9" group-title="MY",TV9
+https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="beritartm" tvg-name="beritartm" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Berita-NEW-PlayerLogo.jpg" tvg-chno="10" channel-id="10" group-title="MY",Berita RTM
+https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist.m3u8
 
 
 
