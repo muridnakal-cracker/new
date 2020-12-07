@@ -167,6 +167,12 @@ https://y5w8j4a9.ssl.hwcdn.net:443/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="cinemax" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122",Cinemax (VPN warp+)
 https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/cinemax.m3u8
 
+#EXTINF:-1 tvg-id="foxmovies" tvg-name="" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/fox_movies_premium.png", FOX Movies
+http://104.43.17.237:8888/live/gratis/rasapremium/94.ts
+
+#EXTINF:-1 tvg-id="foxaction" tvg-name="" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/fox_action_movies.png", FOX Action Movies
+http://104.43.17.237:8888/live/gratis/rasapremium/95.ts
+
 #EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO (VPN warp+)
 https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hbo.m3u8
 
