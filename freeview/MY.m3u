@@ -151,6 +151,9 @@ https://raw.githubusercontent.com/raizoML/new/main/freeview/DramaSangat.m3u8
 #EXTINF:-1 tvg-id="okey" tvg-name="okey" tvg-logo="https://myklik.rtm.gov.my/image/tvTVOKEYlogo.jpg" tvg-chno="8" channel-id="8" group-title="MY",TV Okey
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 
+#EXTINF:-1 tvg-id="prima" tvg-name="Astro Prima" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" tvg-chno="12" channel-id="12" tvg-group="MY/SG" group-title="MY",Astro Prima
+http://live8.cdn.iptv8k.org:80/review_stream/primakbmm23/i.m3u8
+
 #EXTINF:-1 tvg-id="vaanavil" tvg-name="vaanavil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Vaanavil_%28s20%29.png" tvg-chno="11" channel-id="11" group-title="MY",Astro Vaanavil
 https://raw.githubusercontent.com/raizoML/new/main/freeview/Vaanavil.m3u8
 
