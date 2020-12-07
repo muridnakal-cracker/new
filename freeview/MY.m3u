@@ -127,7 +127,7 @@ https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
 #EXTINF:-1 tvg-id="tvs" tvg-name="tvs" tvg-logo="https://tvsarawak.com/wp-content/uploads/2018/12/tvslogo222new.png" tvg-chno="0" channel-id="0" group-title="MY",TVSarawak
 https://tvsarawak.com:443/live/_definst_/mytest/playlist.m3u8?tokendtime=1607386342&tokhash=X9A1TAxrSxPA8BT0PWYurAoTRJFw-jhW_d8G9dr-rPo=
 
-#EXTINF:-1 tvg-id="tv3" tvg-name="tv1" tvg-logo="https://playtv.unifi.com.my:7052/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png" tvg-chno="1" channel-id="1" group-title="MY",TV1
+#EXTINF:-1 tvg-id="tv1" tvg-name="tv1" tvg-logo="https://playtv.unifi.com.my:7052/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png" tvg-chno="1" channel-id="1" group-title="MY",TV1
 https://rtm1mobile.secureswiftcontent.com:443/Origin01/ngrp:RTM1/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="tv2" tvg-name="tv2" tvg-logo="https://playtv.unifi.com.my:7052/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png" tvg-chno="2" channel-id="2" group-title="MY",TV2
