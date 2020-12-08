@@ -166,8 +166,14 @@ https://y5w8j4a9.ssl.hwcdn.net:443/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZDjuxrFrWldIYRwhGvKihLWFnh8IuLTMTgg&usqp=CAU" group-title="MOVIES",&Prive HD
 https://y5w8j4a9.ssl.hwcdn.net:443/andprivehd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="cinemax" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122",Cinemax (VPN warp+)
-https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/cinemax.m3u8
+#EXTINF:-1 tvg-id="cinemax" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122",Cinemax 360 (VPN warp+)
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/cinemax360.m3u8
+
+#EXTINF:-1 tvg-id="cinemax" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122",Cinemax 540 (VPN warp+)
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/cinemax540.m3u8
+
+#EXTINF:-1 tvg-id="cinemax" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122",Cinemax FHD (VPN warp+)
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/cinemaxFHD.m3u8
 
 #EXTINF:-1 tvg-id="foxmovies" tvg-name="" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/fox_movies_premium.png", FOX Movies
 http://104.43.17.237:8888/live/gratis/rasapremium/94.ts
@@ -175,21 +181,50 @@ http://104.43.17.237:8888/live/gratis/rasapremium/94.ts
 #EXTINF:-1 tvg-id="foxaction" tvg-name="" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/fox_action_movies.png", FOX Action Movies
 http://104.43.17.237:8888/live/gratis/rasapremium/95.ts
 
-#EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO (VPN warp+)
-https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hbo.m3u8
+#EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO 360 (VPN warp+)
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hbo360.m3u8
 
-#EXTINF:-1 tvg-id="hbohits" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",HBO Hits (VPN warp+)
-https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hbohits.m3u8
+#EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO 540 (VPN warp+)
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hbo540.m3u8
 
-#EXTINF:-1 tvg-id="hbofam" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122",HBO Family (VPN warp+)
-https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hbo%20family.m3u8
+#EXTINF:-1 tvg-id="hbo" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO FHD (VPN warp+)
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hboFHD.m3u8
 
-#EXTINF:-1 tvg-id="hbosig" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_170_122",HBO Signature (VPN warp+)
-https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hbosig.m3u8
+#EXTINF:-1 tvg-id="hbohits" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",HBO Hits 360 (VPN warp+)
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hbohits360.m3u8
 
-#EXTINF:-1 tvg-id="hbored" tvg-name="RED.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/red_hbo.png", RED by HBO (VPN warp+)
-https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hbored.m3u8
+EXTINF:-1 tvg-id="hbohits" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",HBO Hits 540 (VPN warp+)
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hbohits540.m3u8
 
+EXTINF:-1 tvg-id="hbohits" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",HBO Hits FHD (VPN warp+)
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hbohitsFHD.m3u8
+
+#EXTINF:-1 tvg-id="hbofam" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122",HBO Family 360 (VPN warp+)
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hbofam360.m3u8
+
+#EXTINF:-1 tvg-id="hbofam" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122",HBO Family 540 (VPN warp+)
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hbofam540.m3u8
+
+#EXTINF:-1 tvg-id="hbofam" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122",HBO Family FHD (VPN warp+)
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hbofamFHD.m3u8
+
+#EXTINF:-1 tvg-id="hbosig" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_170_122",HBO Signature 360 (VPN warp+)
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hbosig360.m3u8
+
+#EXTINF:-1 tvg-id="hbosig" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_170_122",HBO Signature 540 (VPN warp+)
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hbosig540.m3u8
+
+#EXTINF:-1 tvg-id="hbosig" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_170_122",HBO Signature FHD (VPN warp+)
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hbosigFHD.m3u8
+
+#EXTINF:-1 tvg-id="hbored" tvg-name="RED.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/red_hbo.png", RED by HBO 360 (VPN warp+)
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hbored360.m3u8
+
+#EXTINF:-1 tvg-id="hbored" tvg-name="RED.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/red_hbo.png", RED by HBO 540 (VPN warp+)
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hbored540.m3u8
+
+#EXTINF:-1 tvg-id="hbored" tvg-name="RED.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/red_hbo.png", RED by HBO FHD (VPN warp+)
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hboredFHD.m3u8
 
 #EXTINF:-1 tvg-id="rtmsports" tvg-name="rtmsports" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Player%20Logo%20-%20RTM%20Sports%20Mac%2020%20-%20WhiteBG.jpg" tvg-chno="9" channel-id="9" group-title="SUKAN",RTM Sports
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
