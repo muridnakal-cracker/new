@@ -125,7 +125,7 @@ http://astro3.rastream.com:80/astro-zayan.android?authtoken=eyJ0eXAiOiJKV1QiLCJh
 https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
  
 #EXTINF:-1 tvg-id="tvs" tvg-name="tvs" tvg-logo="https://tvsarawak.com/wp-content/uploads/2018/12/tvslogo222new.png" tvg-chno="0" channel-id="0" group-title="MY",TVSarawak
-https://tvsarawak.com:443/live/_definst_/mytest/playlist.m3u8?tokendtime=1607386342&tokhash=X9A1TAxrSxPA8BT0PWYurAoTRJFw-jhW_d8G9dr-rPo=
+https://tvsarawak.com:443/live/_definst_/mytest/playlist.m3u8?tokendtime=1607438853&tokhash=jgW1IiJPYI4rLR06ohaZwXK6yKia9lJ5CZ8nrHP_xlM=
 
 #EXTINF:-1 tvg-id="tv1" tvg-name="tv1" tvg-logo="https://playtv.unifi.com.my:7052/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png" tvg-chno="1" channel-id="1" group-title="MY",TV1
 https://rtm1mobile.secureswiftcontent.com:443/Origin01/ngrp:RTM1/chunklist.m3u8
