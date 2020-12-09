@@ -226,7 +226,7 @@ https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1
 #EXTINF:-1 tvg-id="hbored" tvg-name="RED.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/red_hbo.png", RED by HBO FHD (VPN warp+)
 https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hboredFHD.m3u8
 
-#EXTINF:-1 tvg-id="rtmsports" tvg-name="rtmsports" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Player%20Logo%20-%20RTM%20Sports%20Mac%2020%20-%20WhiteBG.jpg" tvg-chno="9" channel-id="9" group-title="SUKAN",RTM Sports
+#EXTINF:-1 tvg-id="rtms" tvg-name="rtmsports" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Player%20Logo%20-%20RTM%20Sports%20Mac%2020%20-%20WhiteBG.jpg" tvg-chno="9" channel-id="9" group-title="SUKAN",RTM Sports
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 
 #EXTINF:-1 tvg-id="beritartm" tvg-name="beritartm" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Berita-NEW-PlayerLogo.jpg" tvg-chno="10" channel-id="10" group-title="BERITA",Berita RTM
