@@ -157,9 +157,6 @@ http://live8.cdn.iptv8k.org:80/review_stream/primakbmm23/i.m3u8
 #EXTINF:-1 tvg-id="vaanavil" tvg-name="vaanavil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Vaanavil_%28s20%29.png" tvg-chno="11" channel-id="11" group-title="IN",Astro Vaanavil
 https://raw.githubusercontent.com/raizoML/new/main/freeview/Vaanavil.m3u8
 
-#EXTINF:-1 tvg-id="colors" group-title="IN" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716072453864m2m.png",Colors
-http://dx3.gcdn.co/hindi-COLORSHD/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="MOVIES",&Flix HD
 https://y5w8j4a9.ssl.hwcdn.net:443/andflixhd/tracks-v1a1/index.m3u8
  
