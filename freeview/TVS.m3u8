@@ -1,4 +1,5 @@
 #EXTM3U
 
 #EXT-X-STREAM-INF:BANDWIDTH=1147048,AVERAGE-BANDWIDTH=1147048,CODECS="avc1.64001e,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=842x474,CLOSED-CAPTION=NONE,NAME="474"
-https://tvsarawak.com:443/live/_definst_/mytest/playlist.m3u8?tokendtime=1607532984&tokhash=xPFUgPpUDwwzP63CzK7GZPfa8thk3Sc0NPwjdCIywXw=
+https://tvsarawak.com/live/_definst_/mytest/playlist.m3u8?tokendtime=1607712299&tokhash=YzNORO4E4BZ9VFORjGVzropoYsbBTkpXtbOd4YLbwpA=
+
