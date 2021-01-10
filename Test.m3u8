@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=6000000,PROGRAM-ID=1
+http://a3569456590-zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/playlist.m3u8?checkedby=&offset=-64800&useseq=t&version=2
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=6000000,URI="http://a3569456590-zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/iframes.m3u8?checkedby=&offset=-64800&useseq=t&version=2"
