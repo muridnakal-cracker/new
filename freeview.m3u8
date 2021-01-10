@@ -118,7 +118,7 @@ https://raw.githubusercontent.com/raizoML/new/main/freeview/8.m3u8
 https://raw.githubusercontent.com/raizoML/new/main/freeview/10.m3u8
 
 #EXTINF:-1 tvg-id="tv2" tvg-name="TV2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" tvg-chno="2" channel-id="2" group-title="MY",TV2
-https://raw.githubusercontent.com/raizoML/new/main/freeview/12.m3u8
+https://raw.githubusercontent.com/raizoML/new/main/freeview/11.m3u8
 
 #EXTINF:-1 tvg-id="tv3" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" tvg-chno="3" channel-id="3" group-title="MY",TV3 
 https://raw.githubusercontent.com/raizoML/new/main/freeview/1.m3u8|Referer=https://www.dailymotion.com
